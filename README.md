@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Pengalamanku belajar di dicoding
 
-15 Juni 2021
+12 Juni 2021
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
